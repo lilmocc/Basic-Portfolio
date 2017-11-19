@@ -170,6 +170,11 @@ input[type=submit] {
     margin-top: 5px;
 }
 
+input::placeholder {
+  color: #CCC;
+  padding-left: 5px;
+}
+
 .grayborder {
     border: 1;
     border-top: 1.5px solid #CCC;
